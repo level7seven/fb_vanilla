@@ -1,0 +1,22 @@
+{
+    "name": "vanilla",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "xregexp": "3.1.1",
+        "yarn": "^1.22.4",
+        "colors": "1.1.2",
+        "moment": "2.13.0",
+        "yql": "1.0.2",
+        "express": "4.16.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
